@@ -1,1 +1,1 @@
-# Stigler-s-Dietr-Problem-GA
+# Stigler's Diet Problem: GA
